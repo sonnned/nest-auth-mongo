@@ -6,6 +6,7 @@ Your env should have
 DATABASE_NAME=db_example
 DATABASE_PORT=1000
 API_KEY='api_example_123'
+JWT_SECRET='secret'
 PORT=port_example_3000
 MONGO_INITDB_ROOT_USERNAME=admin_example
 MONGO_INITDB_ROOT_PASSWORD=password_example
